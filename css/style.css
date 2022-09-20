@@ -29,13 +29,31 @@ body{
     padding-left: 50px;
 }
 
-.add-task{
-    background-color: rgb(16, 133, 133);
+.span-part{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+
 }
 
-.span-part{
-    border-bottom: 1px solid lightgray;
+.add-task{
+    color: white;
+    font-size: small;
+    background-color: rgb(39, 196, 235);
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
 }
+
+.add-select{
+    color: rgb(207, 203, 203);
+    font-size: small;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
 
 .sec1{
     padding-top: 20px;
