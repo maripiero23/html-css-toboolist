@@ -26,8 +26,13 @@ body{
     width: 780px;
     margin: auto;
     background-color: white;
+    padding-left: 50px;
 }
 
-.add{
-   padding: 10px; 
+.add-task{
+    background-color: rgb(16, 133, 133);
+}
+
+.span-part{
+    border-bottom: 1px solid lightgray;
 }
