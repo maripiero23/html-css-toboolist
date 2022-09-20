@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    pad: 0;   
+}
+
+.head-title{
+    vertical-align: middle;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.head-logo{
+    vertical-align: middle;
+}
+
+.head-sect{
+    padding: 10px 10px 10px 20px;
+    border-bottom: 1px solid lightgrey;
+}
