@@ -36,3 +36,42 @@ body{
 .span-part{
     border-bottom: 1px solid lightgray;
 }
+
+.sec1{
+    padding-top: 20px;
+}
+
+.tutti-1{
+    font-weight:lighter;
+    font-size: small;
+}
+
+.title-div{
+    margin-bottom: 5px;
+    
+}
+
+.spunta-cerch{
+    width: 100px; /*inutile*/
+    border: 1px solid rgb(60, 168, 141);
+    border-radius: 50px;
+}
+
+.edit1{
+    font-size: small;
+}
+
+.sez-div{
+    margin-bottom: 35px;
+}
+
+.edit2{
+    font-size: small;
+    color: white;
+    font-weight: lighter;
+    background-color: rgb(126, 195, 241);
+    border-radius: 15px;
+    padding: 10px;
+    display: inline-block;
+    
+}
