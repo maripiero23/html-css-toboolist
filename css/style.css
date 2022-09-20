@@ -43,7 +43,8 @@ body{
 
 .tutti-1{
     font-weight:lighter;
-    font-size: small;
+    font-size: 20px;
+    margin-bottom: 10px;
 }
 
 .title-div{
@@ -61,17 +62,72 @@ body{
     font-size: small;
 }
 
-.sez-div{
-    margin-bottom: 35px;
-}
-
-.edit2{
+.edit{
     font-size: small;
     color: white;
     font-weight: lighter;
     background-color: rgb(126, 195, 241);
     border-radius: 15px;
-    padding: 10px;
+    padding: 5px 10px;
+    display: inline-block; 
+}
+
+
+.sez-div{
+    margin-bottom: 35px;
+}
+
+
+
+.Q1{
+    font-size: small;
+    color: white;
+    background-color: blueviolet;
+    border-radius: 15px;
+    padding: 5px 10px;
     display: inline-block;
-    
+}
+
+
+
+.x-cerch{
+    border: 1px solid rgb(235, 11, 11);
+    border-radius: 50px;
+}
+
+
+.Recr{
+    font-size: small;
+    color: white;
+    background-color: rgb(42, 179, 149);
+    border-radius: 15px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.mobile{
+    font-size: small;
+    color: white;
+    background-color: rgb(241, 128, 22);
+    border-radius: 15px;
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.web{
+    font-size: small;
+    color: white;
+    background-color: rgb(231, 22, 196);
+    border-radius: 15px;
+    padding: 5px 10px;
+    display: inline-block;  
+}
+
+.sales{
+    font-size: small;
+    color: white;
+    background-color: rgb(163, 209, 36);
+    border-radius: 15px;
+    padding: 5px 10px;
+    display: inline-block;  
 }
